@@ -5,14 +5,15 @@ This is my project to learn about virtual mouse by using OpenCV and Mediapipe, t
 Pystray icon
 Simple Tkinter GUI ( draggable, and can be shown and hidden by tray icon ) 
 
-### Mouse click
+### Mouse features
+```md
 change mode (right, double or scroll)  - thumb only 
 mouse move   - index finger 
 left click   - index finger and middle finger
 right click  - index finger and pinky finger
 double click - index finger and pinky finger
 scroll       - index finger and pinky finger
-
+```
 
 ## Requirements
 I was using pycharm before but then switched to VS code. \
